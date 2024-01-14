@@ -5,6 +5,7 @@
     "mysql2": "^3.7.0"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "name": "employee-management-tracker",
