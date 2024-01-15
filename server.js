@@ -10,6 +10,8 @@ function start() {
         name: 'action',
         message: 'What would you like to do?',
         choices: [
+
+          
           'View all departments',
           'View all roles',
           'View all employees',

@@ -24,7 +24,9 @@
   This project is licensed under the None license.
   
   ## Questions
-  You can find me on GitHub: [undefined](https://github.com/undefined)
+  You can find me on GitHub: (https://github.com/undefined)
+
+  Please see link for video instructions: https://drive.google.com/file/d/1pjK9kcPkd39qHOwW0vwqqCbeOw_2akgi/view
   
   For any questions or inquiries, please email me at l.gonzalez6@me.com.
   
